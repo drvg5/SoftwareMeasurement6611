@@ -1,0 +1,16 @@
+lines,tokens,occurrences
+60,246,2,99,/home/ec2-user/core/io/source/acceptor/acc_socket.cxx,33,/home/ec2-user/core/io/source/connector/ctr_socket.cxx
+36,184,2,48,/home/ec2-user/core/io/test/stm/marktest.cxx,393,/home/ec2-user/core/io/test/stm/marktest.cxx
+46,151,2,241,/home/ec2-user/core/io/source/acceptor/acc_socket.cxx,182,/home/ec2-user/core/io/source/connector/ctr_socket.cxx
+24,148,2,96,/home/ec2-user/core/io/test/stm/pipetest.cxx,63,/home/ec2-user/core/io/test/stm/pumptest.cxx
+28,142,4,48,/home/ec2-user/core/io/test/stm/marktest.cxx,393,/home/ec2-user/core/io/test/stm/marktest.cxx,96,/home/ec2-user/core/io/test/stm/pipetest.cxx,63,/home/ec2-user/core/io/test/stm/pumptest.cxx
+28,138,2,39,/home/ec2-user/core/io/source/acceptor/acc_socket.cxx,33,/home/ec2-user/core/io/source/connector/connector.hxx
+23,138,2,925,/home/ec2-user/core/io/test/stm/datatest.cxx,984,/home/ec2-user/core/io/test/stm/datatest.cxx
+16,125,2,314,/home/ec2-user/core/io/test/stm/pumptest.cxx,343,/home/ec2-user/core/io/test/stm/pumptest.cxx
+17,121,2,72,/home/ec2-user/core/io/source/acceptor/acc_socket.cxx,84,/home/ec2-user/core/io/source/connector/connector.hxx
+18,116,5,69,/home/ec2-user/core/io/test/stm/datatest.cxx,54,/home/ec2-user/core/io/test/stm/marktest.cxx,399,/home/ec2-user/core/io/test/stm/marktest.cxx,102,/home/ec2-user/core/io/test/stm/pipetest.cxx,69,/home/ec2-user/core/io/test/stm/pumptest.cxx
+18,115,2,82,/home/ec2-user/core/io/source/stm/odata.cxx,424,/home/ec2-user/core/io/source/stm/omark.cxx
+16,115,2,459,/home/ec2-user/core/io/source/stm/odata.cxx,92,/home/ec2-user/core/io/source/stm/omark.cxx
+23,109,2,96,/home/ec2-user/core/io/source/stm/omark.cxx,428,/home/ec2-user/core/io/source/stm/omark.cxx
+32,107,2,85,/home/ec2-user/core/io/source/acceptor/acc_pipe.cxx,59,/home/ec2-user/core/io/source/connector/ctr_pipe.cxx
+22,105,2,169,/home/ec2-user/core/io/source/acceptor/acc_socket.cxx,112,/home/ec2-user/core/io/source/connector/ctr_socket.cxx
