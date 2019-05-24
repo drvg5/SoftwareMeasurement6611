@@ -7,8 +7,9 @@ To achieve this, we will be using the widely used maintainability index proposed
 
 In the end, we hope that these two models will help identify key aspects of the implementation of these systems that may have affected maintainability across the different versions of the systems under review.
 
-Team Members
-Dhruv Gusain
-Emmanuel Uhegbu
-Sidharth Sharma
-Uchechukwu Iroegbu
+Team Members:
+
+<b> Dhruv Gusain </br>,
+Emmanuel Uhegbu,
+Sidharth Sharma,
+Uchechukwu Iroegbu.
