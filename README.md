@@ -9,7 +9,7 @@ In the end, we hope that these two models will help identify key aspects of the 
 
 Team Members:
 
-<b> Dhruv Gusain </br>,
+<b> Dhruv Gusain,
 Emmanuel Uhegbu,
 Sidharth Sharma,
-Uchechukwu Iroegbu.
+Uchechukwu Iroegbu. </b>
